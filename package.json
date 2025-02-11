@@ -2,6 +2,7 @@
   "name": "pairfecto-landing",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT No-Commercial",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
